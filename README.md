@@ -14,7 +14,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-gui-marcos&theme=radical">
 </p>
 
-
+### Let's connect!
+<a href="https://www.w3schools.com](https://www.linkedin.com/in/joao-guilherme-de-nigris-marcos"><img src="img/linkedin.svg" width="60"></a>
 
 <!--
 **joao-gui-marcos/joao-gui-marcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
