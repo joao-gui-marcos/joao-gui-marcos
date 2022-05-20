@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello there 👋,  I'm Joao
+
+* :bulb: Electrical Engineer :bulb:
+* :hearts: Biomedical Engineer :hearts:
+* :computer: Full-Stack Web Dev Student :computer:
+
+
+
+
+
+
+
 
 <!--
 **joao-gui-marcos/joao-gui-marcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
