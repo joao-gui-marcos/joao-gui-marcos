@@ -15,7 +15,8 @@
 </p>
 
 ### Let's connect!
-<a href="https://www.w3schools.com](https://www.linkedin.com/in/joao-guilherme-de-nigris-marcos"><img src="img/linkedin.svg" width="60"></a>
+<a href="https://www.w3schools.com](https://www.linkedin.com/in/joao-guilherme-de-nigris-marcos"><img src="img/linkedin.png" target="_blank" width="60"></a>
+<a href="mailto:someone@example.com">Send email</a>
 
 <!--
 **joao-gui-marcos/joao-gui-marcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
