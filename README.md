@@ -1,10 +1,10 @@
-### Hello there 👋,  I'm Joao
+## Hello there 👋,  I'm Joao
 
 * :bulb: Electrical Engineer :bulb:
 * :hearts: Biomedical Engineer :hearts:
 * :computer: Full-Stack Web Dev Student :computer:
 
-## Technologies & Tools:
+### Technologies & Tools:
 <img src="img/git.svg" width="60"/> <img src="img/html.svg" width="60"/> <img src="img/css.svg" width="60"/> <img src="img/javascript.svg" width="60"/>
 
 
