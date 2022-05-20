@@ -15,7 +15,7 @@
 </p>
 
 ### Let's connect!
-<a href="https://www.w3schools.com](https://www.linkedin.com/in/joao-guilherme-de-nigris-marcos" target="_blank"><img src="img/linkedin.png" width="60"></a>
+<a href="https://www.linkedin.com/in/joao-guilherme-de-nigris-marcos" target="_blank"><img src="img/linkedin.png" width="60"></a>
 <a href="mailto:jguilherme.marcos@gmail.com"><img src="img/gmail.png" width="60"></a>
 
 <!--
