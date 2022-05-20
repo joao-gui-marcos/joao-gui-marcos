@@ -1,14 +1,18 @@
 ## Hello there 👋,  I'm Joao
 
+### About me:
 * :bulb: Electrical Engineer :bulb:
 * :hearts: Biomedical Engineer :hearts:
 * :computer: Full-Stack Web Dev Student :computer:
 
 ### Technologies & Tools:
-<img src="img/git.svg" width="60"/> <img src="img/html.svg" width="60"/> <img src="img/css.svg" width="60"/> <img src="img/javascript.svg" width="60"/>
+<img src="img/git.svg" width="60"> <img src="img/html.svg" width="60"> <img src="img/css.svg" width="60"> <img src="img/javascript.svg" width="60">
 
-
-
+### GitHub Stats:
+<p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=joao-gui-marcos&theme=radical"> &nbsp;&nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-gui-marcos&theme=radical">
+</p>
 
 
 
