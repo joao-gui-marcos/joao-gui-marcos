@@ -9,9 +9,9 @@
 
 ### Technologies & Tools:
 <img src="img/git.svg" width="60"> <img src="img/github5.png" width="60"> <img src="img/html.svg" width="60"> <img src="img/css.svg" width="60"> <img src="img/javascript.svg" width="60">
-<br>
+
 <p align='right' display='inline-block'>
- <!--!<i><br>"I work and believe in actions that can generate<br>a positive impact on people's lives."</i></p>-->
+ <i><br><br>"I work and believe in actions that can generate<br>a positive impact on people's lives."</i></p>
 
 ### GitHub Stats:
 <p align="center"> 
