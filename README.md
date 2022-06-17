@@ -7,7 +7,7 @@ Hi! <img src="https://user-images.githubusercontent.com/30669837/169652807-dffac
 * :computer: Full-Stack Web Developer Student at Trybe
 * :video_game: Game Developer & Designer
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [Myportfolio](http://https://joao-gui-marcos.github.io/)
+* 🖥️  See my portfolio at [MyPortfolio](https://joao-gui-marcos.github.io/)
 * ✉️  You can contact me at [jguilherme.marcos@gmail.com](mailto:jguilherme.marcos@gmail.com)
 * 🧠  I'm learning Front-End Development
 
