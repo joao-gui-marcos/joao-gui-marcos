@@ -2,7 +2,7 @@ Hi! <img src="https://user-images.githubusercontent.com/30669837/169652807-dffac
 ===============================
 
 ### About me:
-* :bulb: Electrical Engineer - Unicamp - Bachelor Degree
+* :bulb: Electrical Engineer - Unicamp - Bachelor's Degree
 * :hearts: Biomedical Engineer - Unicamp - Specialization Degree
 * :computer: Full-Stack Web Developer Student at Trybe
 * :video_game: Game Developer & Designer - [Check my Games!](https://joao-gui-marcos.github.io/games.html)
