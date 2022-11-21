@@ -9,7 +9,7 @@ Hi! <img src="https://user-images.githubusercontent.com/30669837/169652807-dffac
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [MyPortfolio](https://joao-gui-marcos.github.io/)
 * ✉️  You can contact me at [jguilherme.marcos@gmail.com](mailto:jguilherme.marcos@gmail.com)
-* 🧠  I'm learning Front-End Development - [Check Repository](https://github.com/joao-gui-marcos/trybe-course)
+* 🧠  I'm learning Back-End Development - [Check Repository](https://github.com/joao-gui-marcos/trybe-course)
 
 ### Skills
  
