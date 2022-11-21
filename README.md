@@ -55,6 +55,7 @@ Hi! <img src="https://user-images.githubusercontent.com/30669837/169652807-dffac
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" /></a> 
+<a href="" target="_blank"><img style="margin: 10px" src="https://github.com/joao-gui-marcos/joao-gui-marcos/blob/main/img/macos.png" alt="MacOS" height="50" /></a> 
 </div>
 
 </td></tr></table>  
