@@ -5,6 +5,7 @@ Hi! <img src="https://user-images.githubusercontent.com/30669837/169652807-dffac
 * :bulb: Electrical Engineer - Unicamp - Bachelor's Degree
 * :hearts: Biomedical Engineer - Unicamp - Specialization Degree
 * :computer: Full-Stack Web Developer Student at Trybe
+* :iphone: Digital Marketing - Empiricus - Master of Business Administration (MBA)
 * :video_game: Game Developer & Designer - [Check my Games!](https://joao-gui-marcos.github.io/games.html)
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [MyPortfolio](https://joao-gui-marcos.github.io/)
